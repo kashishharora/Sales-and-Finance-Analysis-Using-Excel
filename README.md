@@ -48,3 +48,33 @@ The reports provide insights into:
 - Net Sales | COGS | Gross Margin | GM % | 21 vs 20 % | Target Achievement %
 
 ### Data Model Screenshot — included in repository
+
+## Key Findings
+- **Customer Growth**: 67 customers tracked across FY 2019–2021 — top performers include Amazon ($12.2M → $82.1M, +218.9%), AtliQ Exclusive ($9.6M → $61.1M, +345.8%), AtliQ eStore ($7.2M → $53.0M, +223.8%), and Flipkart ($2.9M → $19.3M, +231.0%) — overall grand total grew from $87.5M → $598.9M (+304.5%)
+- **Market Performance vs Target (FY 2021)**: All 23 markets missed their 2021 sales targets — overall shortfall of $54.9M (-9.2%), worst being Poland (-18.1%), Canada (-14.5%), Spain (-14.1%), while Japan (-4.1%) performed closest to target.
+- **Sales Trend**: Net Sales grew rapidly from $87.5M (2019) → $196.7M (2020) → $598.9M (2021) — a +124.8% (20 vs 19) and +204.5% (21 vs 20) YoY growth
+- **Top 10 Products(2021 vs 2020)**:
+- AQ Mx NB ($0.0M → $1.4M, +5,621%), AQ Smash 2 ($0.4M → $11.2M, +2,490%), and AQ LION x3 ($0.1M → $1.2M, +1,693%) showed exceptional growth
+- Top 10 products combined grew from $6.4M → $52.0M (+708% YoY)
+
+## Report Highlights
+- Customer Net Sales Report (2019–2021) — Customer-wise sales and growth across 67 customers
+- Market Performance vs Target (2021) — Actual vs. target gap analysis across 23 markets
+- P&L by Market — Net Sales, COGS, Gross Margin % — GM% ranged from 26.2% (Germany) to 48.2% (New Zealand)
+- P&L by Fiscal Year — Yearly and quarterly sales trend (2019–2021)
+- Top 10 Products (2021 vs 2020) — Fastest-growing products — led by AQ Mx NB (+5,621%)
+
+## Final Recommendations
+
+- Strengthen focus on top-growing customers like Amazon and AtliQ Exclusive
+- Investigate reasons for missed targets in large markets like USA, India, and Canada
+- Replicate strategies from high-margin markets like Japan and New Zealand
+- Improve low-margin markets such as Germany and Norway
+- Invest in top-performing products like AQ Mx NB, AQ Smash 2, and AQ LION series to sustain growth
+- Monitor customer, market, and product trends quarterly for better decision-making
+
+## Author & Contact
+
+- Author: Kashish Arora
+- Email: arorakashish224@gmail.com
+- LinkedIn: www.linkedin.com/in/kashisharora12
